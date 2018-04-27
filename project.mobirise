@@ -33,7 +33,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/poster-128x192-1.png",
     "noImageResize": ""
   },
   "pages": {
