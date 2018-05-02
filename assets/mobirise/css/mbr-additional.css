@@ -3513,6 +3513,24 @@ body {
 .cid-qQRt18ndr3 .mbr-text {
   color: #767676;
 }
+.cid-qQSrFf1bGS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
+}
+@media (min-width: 992px) {
+  .cid-qQSrFf1bGS .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qQSrFf1bGS .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-qQSrFf1bGS .mbr-text {
+  color: #767676;
+}
 .cid-qQRokmpe6G {
   padding-top: 90px;
   padding-bottom: 90px;
