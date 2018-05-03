@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "iMediaBank",
-    "currentPage": "index.html",
+    "currentPage": "AndroidApps.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 86,
     "versionPublish": "4.7.2",
@@ -47,7 +47,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "iMediaBank : \nIoT Solutions Partner \nTailor-made to upgrade your products and business by IoT",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1176,7 +1176,7 @@
     },
     "AndroidApps.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Angel Bible\nMulti-language Bible App\nNot only more then 7 Language and 17 version Bible but also shows two language verse together, with function share to Facebook, WhatsApp, Line and more",
         "title": "AndroidApps",
         "order": 2
       },
@@ -2261,7 +2261,7 @@
     },
     "PetsRemains.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "Pet's Remains\n寵物遺體\nBags & Coffin for Pet's Remains\nKeeps your pet's remains for a memorial ceremony in few days at home to wait for burial at a pet cemetery and/or cremation",
         "title": "PetsRemains",
         "order": 1
       },
