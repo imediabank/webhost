@@ -40,7 +40,7 @@
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118580313-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118580313-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. By continiung you agree to our GDPR Compliance. Please read Privacy Policy",
-    "gdpr": ""
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
   "pages": {
     "index.html": {
@@ -1178,7 +1178,7 @@
       "settings": {
         "meta_descr": "Angel Bible\nMulti-language Bible App\nNot only more then 7 Language and 17 version Bible but also shows two language verse together, with function share to Facebook, WhatsApp, Line and more",
         "title": "AndroidApps",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -3101,7 +3101,7 @@
       "settings": {
         "meta_descr": "Privacy Policy",
         "title": "Policy",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
