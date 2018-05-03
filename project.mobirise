@@ -39,8 +39,8 @@
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118580313-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118580313-1');\r\n</script>\r\n",
-    "cookiesAlert": "",
-    "gdpr": "By continiung you agree to our <a href='Policy.html'>Privacy Policy</a>."
+    "cookiesAlert": "We use cookies to give you the best experience. By continiung you agree to our GDPR Compliance <a href='Policy.html'>Privacy Policy</a>.",
+    "gdpr": "By continiung you agree to our GDPR Compliance <a href='Policy.html'>Privacy Policy</a>."
   },
   "pages": {
     "index.html": {
