@@ -3,7 +3,7 @@
     "name": "iMediaBank",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -16,7 +16,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Playfair Display",
         "display1Size": 4.25,
         "display2Font": "Rubik",
         "display2Size": 3,
