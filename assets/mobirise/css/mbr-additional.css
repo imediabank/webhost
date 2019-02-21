@@ -1383,6 +1383,34 @@ body {
     flex: auto!important;
   }
 }
+.cid-riHaulCHG4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #c1c1c1;
+}
+.cid-riHaulCHG4 .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-riHaulCHG4 .mbr-author-name {
+  font-weight: bold;
+  color: #0f7699;
+}
+.cid-riHaulCHG4 .mbr-author-desc {
+  color: #0f7699;
+}
+@media (max-width: 991px) {
+  .cid-riHaulCHG4 .mbr-figure,
+  .cid-riHaulCHG4 img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+}
+.cid-riHaulCHG4 .testimonial-text B {
+  color: #073b4c;
+}
 .cid-qQhRzzc5jt .navbar {
   padding: .5rem 0;
   background: #073b4c;
@@ -1923,50 +1951,6 @@ body {
     padding: 15px;
   }
 }
-.cid-qQp7qCX8NC {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-qQp7qCX8NC .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qQp7cmazHa {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qQp7cmazHa .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qQp7cmazHa .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qQp7cmazHa .mbr-text {
-  color: #767676;
-}
-.cid-qQp7ieNwDv {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #efefef;
-}
-@media (min-width: 992px) {
-  .cid-qQp7ieNwDv .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qQp7ieNwDv .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-qQp7ieNwDv .mbr-text {
-  color: #767676;
-}
 .cid-qQhU3F3krs {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2001,10 +1985,9 @@ body {
   color: #ffffff;
 }
 .cid-riGYJgONxu {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, #efefef);
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-riGYJgONxu .carousel-control {
   background: #000;
@@ -2206,11 +2189,11 @@ body {
   }
 }
 .cid-riGYJgONxu B {
-  color: #ffffff;
+  color: #f7ed4a;
 }
 .cid-qQWXkT7wBO {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-qQWXkT7wBO .socicon-bg-facebook {
@@ -2252,6 +2235,9 @@ body {
   .cid-qQWXkT7wBO .btn {
     font-size: 20px !important;
   }
+}
+.cid-qQWXkT7wBO .mbr-section-title B {
+  color: #ffffff;
 }
 .cid-qQifxKlN9Q {
   padding-top: 30px;
