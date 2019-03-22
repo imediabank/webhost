@@ -1383,6 +1383,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #0f7699;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #0f7699;
+}
 .cid-qQRg0HBBOl .mbr-text,
 .cid-qQRg0HBBOl .mbr-section-btn {
   color: #0f7699;
@@ -2249,7 +2260,7 @@ body {
   }
 }
 .cid-qQWXkT7wBO .mbr-section-title B {
-  color: #ffffff;
+  color: #073b4c;
 }
 .cid-qQifxKlN9Q {
   padding-top: 30px;
