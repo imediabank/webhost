@@ -1394,9 +1394,12 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #0f7699;
 }
+.cid-qQRg0HBBOl {
+  background-image: url("../../../assets/images/masterbg-2000x1250.png");
+}
 .cid-qQRg0HBBOl .mbr-text,
 .cid-qQRg0HBBOl .mbr-section-btn {
-  color: #0f7699;
+  color: #132aa5;
 }
 .cid-qQRg0HBBOl H1 {
   color: #ffffff;
